@@ -4,7 +4,7 @@ It includes user authentication features and a Swagger API documentation for bet
 
 ### Installation and Setup
 
-# Before running the project, make sure you have the following prerequisites installed:
+## Before running the project, make sure you have the following prerequisites installed:
 Node.js (v14.0.0 or higher)
 MongoDB
 
